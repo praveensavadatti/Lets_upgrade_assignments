@@ -1,9 +1,8 @@
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
 
-void main()
+int main()
 {
-	clrscr();
+	
 
 	int temp, fahr;
 
@@ -15,7 +14,7 @@ void main()
 
 	cout<<endl<<"The temperature in fahrenhite is: "<<fahr;
 
-	getch();
+	
 }
 
 
