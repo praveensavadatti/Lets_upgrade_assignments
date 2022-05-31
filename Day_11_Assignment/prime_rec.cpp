@@ -18,6 +18,11 @@ int main()
 
 int prime(int n)
 {
-    if(n%i == 0)
+    count = 0;
+    if(n%prime(n-1) == 0){
+        count ++;
+    }
+    else
+
 }
 
