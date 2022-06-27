@@ -69,4 +69,5 @@ void bubble_sort(int s[], int n)
 
     for(i=0; i<n; i++)
         cout<<s[i]<<endl;
+
 }
